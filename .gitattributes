@@ -1,0 +1,6 @@
+/.* export-ignore
+/Src/Mstzn/PhpSimple/simplehtmldom_1_8/app export-ignore
+/Src/Mstzn/PhpSimple/simplehtmldom_1_8/example export-ignore
+/Src/Mstzn/PhpSimple/simplehtmldom_1_8/manual export-ignore
+/Src/Mstzn/PhpSimple/simplehtmldom_1_8/testcase export-ignore
+/Src/Mstzn/PhpSimple/simplehtmldom_1_8/change_log.txt export-ignore
